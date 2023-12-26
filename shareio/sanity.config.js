@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'shareio',
 
-  projectId: 'nopl57pa',
+  projectId: 't0ponxf9',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
